@@ -1,0 +1,38 @@
+.AdContainer {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 30px;
+}
+
+.dark{
+    background-color: #222 ;
+    color: white;
+}
+
+.Flavor {
+    font-family: 'Caveat', cursive;
+}
+
+.CreateAd {
+    border: #222 3px solid;
+    box-shadow: 5px 5px 10px #222;
+    width: 200px;
+    text-align: center;
+}
+
+.DesignHeading {
+    font-family: 'Caveat', cursive;
+}
+
+button {
+    background-color: #0e3c7e;
+    padding: auto;
+    margin: 5px;
+    
+}
+
+button:disabled {
+    background-color: gray;
+}

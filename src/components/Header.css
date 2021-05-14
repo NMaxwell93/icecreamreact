@@ -1,0 +1,14 @@
+.Header {
+    font-family: 'Caveat', cursive;
+    color: #0e3c7e;
+    box-shadow: 5px 5px 10px #222;
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}
